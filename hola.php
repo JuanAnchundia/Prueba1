@@ -1,4 +1,4 @@
 <?php
 echo "Hola Mundo";
-echo "Mis nombres son Juan andes"
+echo "Mis nombres son Juan Andres"
 >
